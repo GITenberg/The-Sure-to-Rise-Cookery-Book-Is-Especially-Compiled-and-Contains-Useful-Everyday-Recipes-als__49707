@@ -1,10 +1,16 @@
 _repo: The-Sure-to-Rise-Cookery-Book-Is-Especially-Compiled-and-Contains-Useful-Everyday-Recipes-als__49707
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49707-h/images/cover.jpg
 creator:
   author:
     agent_name: Edmonds, T. J.
     gutenberg_agent_id: '45502'
     url: http://www.gutenberg.org/2009/agents/45502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49707#The-Sure-to-Rise-Cookery-Book-Is-Especially-Compiled-and-Contains-Useful-Everyday-Recipes-als_
 gutenberg_issued: '2015-08-15'
 gutenberg_type: Text
 identifiers:
